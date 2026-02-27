@@ -1,0 +1,3 @@
+[submodule "Spotify_Auth"]
+	path = Spotify_Auth
+	url = https://github.com/guptanshuman124/Spotify_Auth.git
